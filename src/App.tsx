@@ -6,6 +6,7 @@ import BetaResult from './components/BetaResult';
 import LoadingScreen from './components/LoadingScreen';
 import ErrorScreen from './components/ErrorScreen';
 import Header from './components/Header';
+import './App.css';
 
 export interface ClimberData {
   height: number;
